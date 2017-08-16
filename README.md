@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull requests for review.
 
 ## Copyright
 
- Added copyright
+ Added copyright reserve
